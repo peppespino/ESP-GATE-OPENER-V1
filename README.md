@@ -77,3 +77,6 @@ Verifica che il pulsante di apertura funzioni dalla dashboard.
 5. Test
 Premi il pulsante direttamente da Home Assistant.
 Controlla che il cancello risponda come quando premi il telecomando.
+
+nd.
+Per collegarlo ad HOMEASSISTANT bisogna scaricare l'ADDON 'esphome', configurare il proprio esp e direttamenti li caricare il codice YAML
